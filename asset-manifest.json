@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/HocTap3/static/css/main.25221f2b.chunk.css",
+    "main.js": "/HocTap3/static/js/main.7c4fe62e.chunk.js",
+    "main.js.map": "/HocTap3/static/js/main.7c4fe62e.chunk.js.map",
+    "runtime-main.js": "/HocTap3/static/js/runtime-main.742dd038.js",
+    "runtime-main.js.map": "/HocTap3/static/js/runtime-main.742dd038.js.map",
+    "static/js/2.259bd4d6.chunk.js": "/HocTap3/static/js/2.259bd4d6.chunk.js",
+    "static/js/2.259bd4d6.chunk.js.map": "/HocTap3/static/js/2.259bd4d6.chunk.js.map",
+    "static/js/3.1c1bfd9a.chunk.js": "/HocTap3/static/js/3.1c1bfd9a.chunk.js",
+    "static/js/3.1c1bfd9a.chunk.js.map": "/HocTap3/static/js/3.1c1bfd9a.chunk.js.map",
+    "index.html": "/HocTap3/index.html",
+    "static/css/main.25221f2b.chunk.css.map": "/HocTap3/static/css/main.25221f2b.chunk.css.map",
+    "static/js/2.259bd4d6.chunk.js.LICENSE.txt": "/HocTap3/static/js/2.259bd4d6.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/HocTap3/static/media/slide-02.1e1f708c.jpg",
+    "static/media/logo-color-1.7af7c1b1.png": "/HocTap3/static/media/logo-color-1.7af7c1b1.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.742dd038.js",
+    "static/js/2.259bd4d6.chunk.js",
+    "static/css/main.25221f2b.chunk.css",
+    "static/js/main.7c4fe62e.chunk.js"
+  ]
+}
